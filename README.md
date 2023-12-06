@@ -4,6 +4,9 @@ Hello,
 
 Thank you for taking the time review my Module 9 Challenge.
 
+# CSV Data
+- In the folder labeled , you can find the .csv files of the data pulled to import into the tables created on the .sql files
+
 # Data Engineering & Data Analysis
 - In the folder labled .SQL Code, you can find my .sql coding for both TableCreationSchema & Module9_DataAnalysis_Queries_KNovak. TableCreaionSchema is the code I used for creating tables and building my database diagram on QuickDBD. Module9_DataAnalysis_Queries_KNovak highlights the coding process of gathering the questions listed below...
 
@@ -24,9 +27,7 @@ Thank you for taking the time review my Module 9 Challenge.
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name). (1,638 Results)
 
 # Data Modeling
-- In the folder labled Data Modeling you will find a png file labeled QuickDBD_KNOVAK of the Database Diagram I created for this assignment.
-
-- In the folder labeled , you can find the .csv files of the data pulled to import into the tables created on the .sql files
+- In the folder labled Data Modeling you will find a png file labeled QuickDBD_KNOVAK of the Database Diagram I created for this assignment. You will also find a .sql file with the code I used to create the Database Diagram.
 
 Please let me know if you should have any questions.
 
